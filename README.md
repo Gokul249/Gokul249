@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gokul249
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning UI design
-- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me - Contact aggh312@gmail.com
 
 <!---
